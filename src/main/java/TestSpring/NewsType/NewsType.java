@@ -2,7 +2,6 @@ package TestSpring.NewsType;
 
 import TestSpring.News.News;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 import java.util.Objects;
 import java.util.Set;

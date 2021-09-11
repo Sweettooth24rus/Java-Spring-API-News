@@ -1,9 +1,9 @@
 package TestSpring.News;
 
 import TestSpring.NewsType.NewsType;
-import TestSpring.NewsType.NewsTypeController;
-import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import jdk.nashorn.internal.objects.annotations.Getter;
+import jdk.nashorn.internal.objects.annotations.Setter;
 
 import java.util.Objects;
 
